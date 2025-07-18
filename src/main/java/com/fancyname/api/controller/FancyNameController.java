@@ -14,8 +14,9 @@ public class FancyNameController {
     }
 
     @GetMapping
-    public FancyNameResponse generate(@RequestParam String name) {
-    String result = fancyNameService.generateFancyName(name);
+public FancyNameResponse generate(@RequestParam String name, @RequestParam(defaultValue = "default") String style) {
+    String result = fancyNameService.generateFancyName(name, style);
     return new FancyNameResponse(name, result);
-    }
+}
+
 }
