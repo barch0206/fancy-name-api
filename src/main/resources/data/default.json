@@ -1,0 +1,42 @@
+{
+  "maleTitles": [
+    "Sir", "Duke", "Count", "Captain", "Baron", "Wizard", 
+    "Lord", "Admiral", "General", "Professor", "Doctor", "Master",
+    "Commander", "Chief", "Overlord", "Emperor", "King", "Prince",
+    "Archduke", "Marquis", "Earl", "Viscount", "Knight", "Paladin",
+    "Champion", "Warden", "Guardian", "Sage", "Oracle", "Mystic",
+    "Sorcerer", "Warlock", "Artificer", "Inventor", "Architect",
+    "Engineer", "Technomancer", "Cyberlord", "Datamancer", "Codebender"
+  ],
+  "femaleTitles": [
+    "Lady", "Duchess", "Countess", "Captain", "Baroness", "Enchantress",
+    "Dame", "Admiral", "General", "Professor", "Doctor", "Mistress",
+    "Commander", "Chief", "Overlady", "Empress", "Queen", "Princess",
+    "Archduchess", "Marchioness", "Countess", "Viscountess", "Knight", "Paladin",
+    "Champion", "Warden", "Guardian", "Sage", "Oracle", "Mystic",
+    "Sorceress", "Witch", "Artificer", "Inventor", "Architect",
+    "Engineer", "Technomancer", "Cyberlady", "Datamancer", "Codebender"
+  ],
+  "suffixes": [
+    "the Eloquent", "of the Whispering Winds", "Keeper of Ancient Riddles", "the Perpetually Confused", "Bearer of Forgotten Dreams",
+    "the Melodious", "of the Dancing Shadows", "Guardian of Lost Socks", "the Chronically Late", "Master of Awkward Silences",
+    "the Philosophical", "of the Midnight Snacks", "Tamer of Wild Houseplants", "the Overly Dramatic", "Collector of Shiny Things",
+    "the Mysteriously Absent", "of the Unfinished Sentences", "Whisperer to Pigeons", "the Habitually Optimistic", "Bearer of Random Facts",
+    "the Unintentionally Wise", "of the Crooked Smiles", "Guardian of Coffee Stains", "the Spontaneously Poetic", "Master of Procrastination",
+    "the Endlessly Curious", "of the Mismatched Shoes", "Keeper of Empty Promises", "the Beautifully Chaotic", "Collector of Old Buttons",
+    "the Secretly Sentimental", "of the Forgotten Melodies", "Guardian of Dust Bunnies", "the Accidentally Profound", "Bearer of Paper Cuts",
+    "the Hopelessly Romantic", "of the Tangled Headphones", "Master of Lost Keys", "the Quietly Rebellious", "Keeper of Cookie Crumbs",
+    "the Wonderfully Weird", "of the Backwards Days", "Guardian of Broken Pencils", "the Delightfully Disheveled", "Bearer of Half-Truths",
+    "the Charmingly Clumsy", "of the Upside-Down Books", "Master of Misplaced Items", "the Beautifully Broken", "Collector of Sunset Colors",
+    "the Accidentally Hilarious", "of the Whispered Secrets", "Guardian of Puddle Reflections", "the Quietly Magnificent", "Bearer of Paper Airplanes",
+    "the Dreamily Distracted", "of the Fading Photographs", "Keeper of Childhood Memories", "the Unexpectedly Deep", "Master of Gentle Chaos",
+    "the Softly Spoken", "of the Dancing Dust Motes", "Guardian of Rainy Afternoons", "the Pleasantly Peculiar", "Bearer of Unspoken Words",
+    "the Wandering Soul", "of the Echoing Laughter", "Master of Comfortable Silences", "the Quietly Fierce", "Collector of Forgotten Names",
+    "the Perpetually Amazed", "of the Tilted Picture Frames", "Guardian of Sleepy Mornings", "the Beautifully Imperfect", "Bearer of Invisible Crowns",
+    "the Gentle Storm", "of the Misaligned Stars", "Keeper of Unfinished Stories", "the Accidentally Wise", "Master of Borrowed Time",
+    "the Quietly Brilliant", "of the Sideways Glances", "Guardian of Empty Notebooks", "the Wonderfully Lost", "Bearer of Secret Smiles",
+    "the Dreaming Wanderer", "of the Forgotten Corners", "Master of Unspoken Understanding", "the Quietly Revolutionary", "Collector of Sighs",
+    "the Accidentally Graceful", "of the Misplaced Moments", "Guardian of Faded Letters", "the Beautifully Human", "Bearer of Gentle Truths",
+    "the Quietly Radiant", "of the Unraveling Threads", "Keeper of Midnight Thoughts", "the Wonderfully Flawed", "Master of Tender Mercies"
+  ]
+}

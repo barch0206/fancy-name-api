@@ -13,9 +13,13 @@ public class FancyNameController {
         this.fancyNameService = fancyNameService;
     }
 
-    @GetMapping
-public FancyNameResponse generate(@RequestParam String name, @RequestParam(defaultValue = "default") String style) {
-    String result = fancyNameService.generateFancyName(name, style);
+@GetMapping
+public FancyNameResponse generate(
+    @RequestParam String name,
+    @RequestParam(defaultValue = "default") String style,
+    @RequestParam(defaultValue = "male") String gender
+) {
+    String result = fancyNameService.generateFancyName(name, style, gender);
     return new FancyNameResponse(name, result);
 }
 
