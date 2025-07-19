@@ -4,6 +4,7 @@ import com.fancyname.api.service.FancyNameService;
 import org.springframework.web.bind.annotation.*;
 import com.fancyname.api.model.FancyNameRequest;
 import org.springframework.http.ResponseEntity;
+import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/generate")
@@ -26,7 +27,7 @@ public FancyNameResponse generate(
 }
 
 @PostMapping
-public ResponseEntity<FancyNameResponse> generatePost(@RequestBody FancyNameRequest request) {
+public ResponseEntity<FancyNameResponse> generatePost(@Valid @RequestBody FancyNameRequest request) {
     String result = fancyNameService.generateFancyName(
         request.getName(),
         request.getStyle(),
