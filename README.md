@@ -3,8 +3,13 @@ A fun REST API built with Spring Boot that transforms names into themed fantasy 
 Supports multiple styles, gender-based title selection, and is ready to power a frontend with GET and POST endpoints.
 
 ✅ Built with: Java + Spring Boot
+
 🔄 Endpoints: /generate via GET and POST
+
 🛡️ Validation: Name, style, and gender inputs
+
 🧪 Tested with: Postman, curl, and browser
+
 📄 Extras: postman curls.md for quick usage
+
 🌐 Hosted on: GitHub Codespaces
